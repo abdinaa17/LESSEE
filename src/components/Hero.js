@@ -2,7 +2,7 @@ import React from 'react'
 import heroBG from "../assets/hero.png"
 import {Link} from "react-router-dom"
 import { Button } from 'antd';
-import {FaTwitter, FaBehance, FaDribbble, FaFacebook} from 'react-icons/fa'
+import {FaTwitter, FaBehance} from 'react-icons/fa'
 import Reviews from './Reviews';
 // import AppCarousel from './Carousel';
 const Hero = () => {
@@ -35,8 +35,6 @@ const Hero = () => {
                     <div className="hero__socials">
                         <Link to="/"><FaTwitter/></Link>
                         <Link to="/"><FaBehance/></Link>
-                        <Link to="/"><FaDribbble/></Link>
-                        <Link to="/"><FaFacebook/></Link>
                     </div>
 
             </div>
