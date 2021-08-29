@@ -56,7 +56,7 @@ export const reviewsData = [
     id: 1,
     name: 'Brad Philips',
     title: 'Founder',
-    image: 'https://randomuser.me/api/portraits/med/men/5.jpg',
+    image: 'https://randomuser.me/api/portraits/men/5.jpg',
     
     description:
       "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi.",
@@ -65,7 +65,7 @@ export const reviewsData = [
     id: 2,
     name: 'Micheal Si',
     title: 'Team Lead',
-    image: 'https://randomuser.me/api/portraits/med/men/1.jpg',
+    image: 'https://randomuser.me/api/portraits/men/1.jpg',
     
     description:
       "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.",
@@ -74,7 +74,7 @@ export const reviewsData = [
     id: 3,
     name: 'Kay Adams',
     title: 'CEO',
-    image: 'https://randomuser.me/api/portraits/med/women/8.jpg',
+    image: 'https://randomuser.me/api/portraits/women/9.jpg',
     
     description:
       'Sed ac turpis tincidunt, lobortis lectus ut, aliquet dui. Nulla interdum elit nunc, ut vulputate risus bibendum.',
@@ -83,7 +83,7 @@ export const reviewsData = [
     id: 4,
     name: 'Thomas Hagen ',
     title: 'Photographer',
-    image: 'https://randomuser.me/api/portraits/med/men/45.jpg',
+    image: 'https://randomuser.me/api/portraits/men/9.jpg',
     description:
       'Etiam id justo nec nunc egestas venenatis sed ut ipsum. In tempor ornare nisl, eget gravida magna sagittis eu. Aliquam ut eros vel ipsum accumsan maximus.',
   },
