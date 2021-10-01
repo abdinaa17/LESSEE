@@ -25,6 +25,9 @@ export const AppProvider = ({ children }) => {
   );
 };
 
+
+// A custom hook to make importing Context easier.
+
 export const useGlobalContext = () => {
   return useContext(AppContext);
 };
